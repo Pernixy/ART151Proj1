@@ -5,6 +5,7 @@ function setup() {
   colorMode(HSB, 360, 100, 100);
   rectMode(CENTER);
   noStroke();
+  window.alert('Welcome to space! Press the up and down arrows to change the patterns of the stars, move the mouse to make the sun bigger.')
 }
 
 var size = 1.5
